@@ -1,2 +1,2 @@
 # Pricing-Chart
-displaying HTML and CSS
+displaying HTML and CSS using Flexbox
